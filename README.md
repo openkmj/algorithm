@@ -5,3 +5,5 @@
 
 
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) (2020.12.29)
+- [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) (2020.12.29)
+- [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) (2020.12.30)
