@@ -6,3 +6,5 @@
 -   [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) (2020.12.29)
 -   [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) (2020.12.30)
 -   [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) (2020.12.31)
+-   [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) (2021.01.04)
+-   [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) (2021.01.04)
