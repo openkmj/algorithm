@@ -8,3 +8,4 @@
 -   [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) (2020.12.31)
 -   [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) (2021.01.04)
 -   [최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) (2021.01.04)
+-   [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) (2021.01.05)
