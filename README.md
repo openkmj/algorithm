@@ -11,3 +11,4 @@
 -   [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) (2021.01.05)
 -   [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) (2020.01.06)
 -   [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) (2020.01.06)
+-   [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) (2020.01.07)
