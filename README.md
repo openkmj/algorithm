@@ -15,3 +15,4 @@
 -   [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) (2021.01.07)
 -   [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) (2021.01.08)
 -   [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) (2021.01.10)
+-   [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) (2021.01.12)
