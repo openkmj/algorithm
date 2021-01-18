@@ -19,3 +19,4 @@
 -   [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) (2021.01.12)
 -   [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) (2021.01.13)
 -   [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) (2021.01.18)
+-   [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) (2021.01.18)
