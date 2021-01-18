@@ -23,3 +23,4 @@
 -   [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) (2021.01.18)
 -   [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) (2021.01.19)
 -   [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) (2021.01.19)
+-   [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) (2021.01.19)
