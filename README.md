@@ -24,3 +24,4 @@
 -   [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) (2021.01.19)
 -   [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) (2021.01.19)
 -   [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) (2021.01.19)
+-   [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) (2021.01.24)
