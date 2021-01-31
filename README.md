@@ -27,3 +27,4 @@
 -   [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) (2021.01.24)
 -   [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) (2021.01.24)
 -   [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) (2021.01.30)
+-   [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) (2021.01.31)
